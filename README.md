@@ -1,10 +1,10 @@
-# go-simple-guard
+# simple-guard
 
 Simple guard construct
 
-[![Build Status](https://travis-ci.org/lestrrat/go-simple-guard.png?branch=master)](https://travis-ci.org/lestrrat/go-simple-guard)
+[![Build Status](https://travis-ci.org/lestrrat-go/simple-guard.png?branch=master)](https://travis-ci.org/lestrrat-go/simple-guard)
 
-[![GoDoc](https://godoc.org/github.com/lestrrat/go-simple-guard?status.svg)](https://godoc.org/github.com/lestrrat/go-simple-guard)
+[![GoDoc](https://godoc.org/github.com/lestrrat-go/simple-guard?status.svg)](https://godoc.org/github.com/lestrrat-go/simple-guard)
 
 # SYNOPSIS
 

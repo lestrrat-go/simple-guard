@@ -77,7 +77,7 @@
 // Once `Fire()` or `Cancel()` is called, the Guard never fires again, so
 // you can safely use it both in the success and failure cases.
 //
-// Please also see: https://github.com/lestrrat/go-tx-guard
+// Please also see: https://github.com/lestrrat-go/tx-guard
 package guard
 
 func (ng nilGuard) Fire() error   { return nil }

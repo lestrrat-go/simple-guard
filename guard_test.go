@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	guard "github.com/lestrrat/go-simple-guard"
+	guard "github.com/lestrrat-go/simple-guard"
 )
 
 func fireGuard(g guard.Guard) (err error) {
